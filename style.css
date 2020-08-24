@@ -6,7 +6,7 @@
   padding: 25px;
 }
 .parallax{
-  background: url('img/happy_people.jpg') no-repeat center;
+  background: url('img/imagesforwebsie/happy_people.jpg') no-repeat center;
   backgroound-size: cover;
   backgrund-attacchment: fixed; 
   height: 500px;
