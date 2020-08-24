@@ -1,0 +1,13 @@
+.container{
+  max-width: 960px;
+  margin: 0 auto;
+  background: #B3DEE5;
+  font-size: 24px;
+  padding: 25px;
+}
+.parallax{
+  background: url('img/imagesforwebsite/happy_people.jpg') no-repeat center;
+  backgroound-size: cover;
+  backgrund-attacchment: fixed; 
+  height: 500px;
+}
